@@ -14,4 +14,6 @@ This repository contains a Python implementation of a **Hybrid Genetic Algorithm
 
 <img width="406" height="531" alt="Screenshot 2025-11-06 at 22 27 14" src="https://github.com/user-attachments/assets/5a75b0b4-c66d-4284-8ad8-328abb1b5b97" />
 
+DISCLAIMER : As I'm still developing my Python skills, Gemini was utilized to assist with formatting the code, fixing small issues, and implementing optimization suggestions.
+
 
